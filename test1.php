@@ -1,5 +1,5 @@
 <?php 
-	//when you use this rename it to index.pph youll need xampp and you will 
+	//when you use this rename it to index.php youll need xampp and you will 
 	//need to make a folder under xampp/htdocs called litbot and put this file inside of it 
 	//and when you run it in chrome type in localhost/litbot as the url 
 	include_once 'simple_html_dom.php';
